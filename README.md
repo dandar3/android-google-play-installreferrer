@@ -7,6 +7,7 @@ https://maven.google.com/com/android/installreferrer/installreferrer/1.0/install
 - `Android 8.1 (API 27) SDK Platform`
 
 **References:**
+- https://android-developers.googleblog.com/2017/11/google-play-referrer-api-track-and.html
 - https://developer.android.com/google/play/installreferrer/library.html
 
 **SVN checkout:**
