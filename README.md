@@ -8,7 +8,7 @@ https://maven.google.com/com/android/installreferrer/installreferrer/1.0/install
 
 **References:**
 - https://developer.android.com/google/play/installreferrer/library.html
-- - https://developer.android.com/google/play/installreferrer/
+- https://developer.android.com/google/play/installreferrer/
 - https://android-developers.googleblog.com/2017/11/google-play-referrer-api-track-and.html
 
 **SVN checkout:**
