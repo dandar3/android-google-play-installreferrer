@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.eclipse.team.svn.core.svnnature">
+<project reference="1.0.1,https://github.com/dandar3/android-google-play-installreferrer/tags/1.0,google-play-installreferrer,50a814bfbf61001814a4e07ef651624d;https://github.com/dandar3/android-google-play-installreferrer;https://github.com/dandar3/android-google-play-installreferrer;branches;tags;trunk;true;cd323ea2-e93f-8780-3c42-ce57b7db7bff;https://github.com/dandar3/android-google-play-installreferrer;;false;;;0"/>
+</provider>
+</psf>
